@@ -7,6 +7,12 @@ export default function Portfolio({ activeSection, setActiveSection }) {
 
   const projects = [
     { 
+      title: 'Tractor ecommerce website', 
+      category: 'web', 
+      image: '/img/portfolio/tractor_ecommerce.png',
+      link: 'https://www.uniquetruthautolimited.com/'
+    },
+    { 
       title: 'Business Consulting Firm', 
       category: 'web', 
       image: '/img/portfolio/Screenshot 2026-04-03 130503.png',
